@@ -6,7 +6,10 @@
 | ------ | ------ |
 | GitHub | https://github.com/CaritoDasilva/pharmacy-searcher-be |
 | EC2 Deploy | http://18.221.149.135/api/communes/7 |
+| Heroku Deploy | https://pharmacy-searcher-be.herokuapp.com/api/communes/7 |
 | Portafolio | https://www.caritodasilva.work/ |
+
+*Se realizó un deploy adicional en Heroku para evitar el error de Cors Origin Blocked
 
 # API Documentation:
   - /api/communes/7 => Trae farmacias de turno y comunas disponibles.
