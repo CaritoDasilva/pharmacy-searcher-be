@@ -42,3 +42,9 @@ Para correr el proyecto
 ```sh
 $ node server.js || npm run start
 ```
+
+Para ver el coverage
+
+```sh
+$ node run test:coverage
+```
